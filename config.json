@@ -1,0 +1,14 @@
+[
+    {
+        "creds": {
+            "admin": "root",
+            "pass": "r007"
+        },
+        "app": {
+            "name": "myDrive",
+            "logo": "public/img/logo.png",
+            "favicon": "public/img/favicon.png",
+            "title": "Repositorio remoto"
+        }
+    }
+]

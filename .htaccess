@@ -1,0 +1,3 @@
+# RewriteEngine On
+# RewriteRule ^([a-zA-Z0-9/]+)$ main-ctrl.php?data=$1
+Options -Indexes
